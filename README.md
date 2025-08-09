@@ -34,4 +34,6 @@ Perform Exploratory Data Analysis on the Superstore dataset and build an interac
 
 
 
+
+License MIT © 2025 Nikita Marshchonok Feel free to use, modify, and contribute!
    
