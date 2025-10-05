@@ -37,6 +37,10 @@ Perform Exploratory Data Analysis on the Superstore dataset and build an interac
 
 
 
+## Author 
+LinkedIn: https://www.linkedin.com/in/nikita-marshchonok
+
+Telegram: @nikitamarshchonok
 
 License MIT © 2025 Nikita Marshchonok Feel free to use, modify, and contribute!
    
