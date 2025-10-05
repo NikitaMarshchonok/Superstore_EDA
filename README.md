@@ -9,6 +9,9 @@ Perform Exploratory Data Analysis on the Superstore dataset and build an interac
 - `requirements.txt`    — Python dependencies  
 - `pic/1.png`–`pic/4.png` — Dashboard screenshots  
 
+
+
+
 ## How to Run
 1. **Clone** the repo and navigate into it:  
    ```bash
