@@ -3,6 +3,8 @@
 **Objective:**  
 Perform Exploratory Data Analysis on the Superstore dataset and build an interactive Streamlit dashboard.
 
+
+
 ## Contents
 - `Superstore_EDA.ipynb` — Jupyter/Colab notebook with step-by-step EDA and insights  
 - `dashboard.py`        — Streamlit app for interactive visualization  
