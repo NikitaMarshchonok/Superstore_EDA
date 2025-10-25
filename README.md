@@ -5,11 +5,14 @@ Perform Exploratory Data Analysis on the Superstore dataset and build an interac
 
 
 
+
+
 ## Contents
 - `Superstore_EDA.ipynb` — Jupyter/Colab notebook with step-by-step EDA and insights  
 - `dashboard.py`        — Streamlit app for interactive visualization  
 - `requirements.txt`    — Python dependencies  
 -  `pic/1.png`–`pic/4.png` — Dashboard screenshots 
+
 
 
 
@@ -36,6 +39,8 @@ Perform Exploratory Data Analysis on the Superstore dataset and build an interac
 ![Total Sales by Region and Top 5 Products](pic/2.png)
 ![Sales by Sub-Category and Segment](pic/3.png)
 ![Sales vs Profit by Product](pic/4.png)
+
+
 
 
 
