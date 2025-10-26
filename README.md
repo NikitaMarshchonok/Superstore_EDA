@@ -7,6 +7,8 @@ Perform Exploratory Data Analysis on the Superstore dataset and build an interac
 
 
 
+
+
 ## Contents
 - `Superstore_EDA.ipynb` — Jupyter/Colab notebook with step-by-step EDA and insights  
 - `dashboard.py`        — Streamlit app for interactive visualization  
