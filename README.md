@@ -1,7 +1,8 @@
 # 🚀 Superstore Sales EDA & Dashboard
 
 
-
+**Objective:**  
+Perform Exploratory Data Analysis on the Superstore dataset and build an interactive Streamlit dashboard.
 
 
 
